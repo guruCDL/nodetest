@@ -1,6 +1,6 @@
 
 var soda = require('soda')
-,   assert = require('assert test serverd');
+,   assert = require('assert test serverds');
 
 var browser = soda.createSauceClient({
   'url': 'http://www.clinicaldatalabs.com/'
