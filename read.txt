@@ -1,2 +1,2 @@
 testing github pull from windows server
-python server testss
+python server tests
